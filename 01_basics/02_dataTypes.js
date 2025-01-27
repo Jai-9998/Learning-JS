@@ -18,7 +18,7 @@ let state;
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone value
+// null => standalone value -> empty value
 // undefined => value is not assigned
 // symbol => to find uniqueness
 
